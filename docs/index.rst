@@ -18,3 +18,4 @@ Contents:
    manifest
    resource_types
    linking
+   Markdown notes
