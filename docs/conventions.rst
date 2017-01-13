@@ -8,12 +8,20 @@ Markdown Notes
 Examples
 --------
 
-When we provide examples in an article we need to format them as an unordered list, with an indented list below the reference containing the source text and the translation.  See the following example:
+When we provide examples in an article we need to format them as a table below the reference containing the source text, the transliteration, the interlinear and the translation.  See the following example:
 
 * GEN 47:18
 
-  * בשנה השנית
-  * in the second year (literally, in the year the second)
++----------------------+
+|בשנה השנית            |
++----------------------+
+|transliteration       |
++----------------------+
+|in the year the second|
++----------------------+
+|in the second year    |
++----------------------+
+
 
 Spelling
 --------
