@@ -14,8 +14,4 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   structure
-   manifest
-   resource_types
-   linking
    Markdown notes
