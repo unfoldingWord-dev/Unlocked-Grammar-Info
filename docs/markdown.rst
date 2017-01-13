@@ -3,10 +3,8 @@ Markdown Notes
 
 If you want text to show up on separate lines then you need 2 line breaks between the lines.  For example:
 
-``
-this will be on
-the same line
-``
+``this will be on
+the same line``
 
 Shows up as
 
@@ -15,11 +13,9 @@ the same line
 
 But the following will show up on separate lines:
 
-``
-this will be on
+``this will be on
 
-separate lines
-``
+separate lines``
 
 Like this:
 
