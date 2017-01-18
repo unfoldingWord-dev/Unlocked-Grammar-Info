@@ -7,8 +7,11 @@ Before you begin working on creating or modifying files in one of the the Unlock
 
 1. Sign in to your Door43 Gogs account.
 2. Click **Fork** near the upper right-hand corner of the site.
+
 .. image:: /img/fork.png
+
 3. In the *New Fork Repository* window, keep the default Repository Name and Description and click on the **Fork Repository** button. 
+
 .. note:: Once you have forked the repository, you will need to work from the files on your fork only. Once you have committed changes to a file on your fork and are ready to merge those those changes to the Master repo, you will need to create a Pull Request.
 
 
@@ -36,7 +39,9 @@ Merging a Pull Request
 Pull requests will show up near the top of the main repository page. 
 
 1. Click on **Pull Requests** to see what needs to be reviewed and then merged with the master repository. 
+
 .. note:: Only review and merge content from another contributor, not your own content. 
+
 2. View the file to review the content. 
 3. If the content is accurate, merge the Pull Request with the master repository.
 
