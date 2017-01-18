@@ -16,6 +16,8 @@ Contents:
 
    purpose
    conventions
+   gogs
+   markdown
    vocabulary
    
    

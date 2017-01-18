@@ -1,9 +1,6 @@
 Conventions
 ===========
 
-Markdown Notes
---------------
-* :ref:`markdown.html`
 
 Examples
 --------
