@@ -10,7 +10,7 @@ Examples
 
 When we provide examples in an article we need to format them as a table below the reference containing the source text, the transliteration, the interlinear and the translation.  See the following example:
 
-* GEN 47:18
+GEN 47:18
 
 +----------------------+
 |בשנה השנית            |
@@ -34,12 +34,12 @@ Structural
 ----------
 
 * No need to duplicate the glossary entry in the article entry
-* Paradigms/charts should go in a folder named after what the chart displays.  For example, a chart of the demonstrative pronouns could go in `content/chart_demonstrative_pronouns/01.md`.
+* For the UHG and UAG, paradigms/charts should go in a folder named after what the chart displays.  For example, a chart of the demonstrative pronouns could go in `content/chart_demonstrative_pronouns/01.md`. For the UGG, at least initially, paradigms/charts will be placed in the content/paradigms folder with the name of the paradigm/chart that is displayed.
 
 Typographical
 -------------
 
-* Wherever possible, use the actual Hebrew letters (whether vowels or consonants).  If needed, you may put the name of the letter in parenthesis afterward.
+* Wherever possible, use the actual Hebrew, Aramaic, and Greek letters (whether vowels or consonants).  If needed, you may put the name of the letter in parenthesis afterward.
 * Wherever possible, include vowels in Hebrew examples that are shown.  Use the 3ms form of verbs to refer to the root or head entry of the verb.
 
 
