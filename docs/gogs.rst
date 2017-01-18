@@ -8,7 +8,7 @@ Before you begin working on creating or modifying files in one of the the Unlock
 1. Sign in to your Door43 Gogs account.
 2. Click **Fork** near the upper right-hand corner of the site.
 
-.. image:: /img/fork.png
+.. image:: /img/fork.PNG
 
 3. In the *New Fork Repository* window, keep the default Repository Name and Description and click on the **Fork Repository** button. 
 
