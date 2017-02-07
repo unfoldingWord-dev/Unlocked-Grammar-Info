@@ -58,6 +58,4 @@ Encoding
 Book Abbreviations
 ------------------
 
-* Since we are writing especially for translators, we'll use the [USFM book codes](http://ubsicap.github.io/usfm/identification/books.html) for references.
-
-
+Since we are writing especially for translators, we'll use the `USFM book codes <http://ubsicap.github.io/usfm/identification/books.html>`_ for references.  As an example, use "GEN 3:10" as the reference for Genesis 3:10.
