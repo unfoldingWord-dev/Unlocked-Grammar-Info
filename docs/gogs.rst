@@ -1,11 +1,12 @@
-Working with Gogs
+Working with Door43 Git Service
 ==========
 
 Forking the repository
 ----------------------
-Before you begin working on creating or modifying files in one of the the Unlocked Grammar repositories, you will need to fork the repo.
 
-1. Sign in to your Door43 Gogs account.
+Before you begin working on creating or modifying files in one of the the Unlocked Grammar repositories, you will need to fork the project's repository.
+
+1. Sign in to your Door43 account at https://git.door43.org/.
 2. Click **Fork** near the upper right-hand corner of the site.
 
 .. image:: /img/fork.PNG
@@ -17,6 +18,7 @@ Before you begin working on creating or modifying files in one of the the Unlock
 
 Assigning yourself to issues
 ----------------------------
+
 We will be tracking progress for the Unlocked Grammar projects using Issues on the repo.
 
 1. On the master repository site, click on **Issues** to see open issues. 
