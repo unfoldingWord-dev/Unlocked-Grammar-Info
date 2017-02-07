@@ -5,20 +5,28 @@ Conventions
 Examples
 --------
 
-When we provide examples in an article we need to format them as a table below the reference containing the source text, the transliteration, the interlinear and the translation.  See the following example:
+When we provide examples in an article we need to use the format below.  Put the reference on its own line and then use a table that shows these four components:
+
+* the source text (Greek, Hebrew, or Aramaic)
+* the SBL style transliteration
+* the literal/interlinear translation
+* the smooth translation
+
+See the following example:
 
 GEN 47:18
 
 +----------------------+
-|בשנה השנית            |
+|בַּשָּׁנָ֣ה הַשֵּׁנִ֗ית            |
 +----------------------+
-|transliteration       |
+|baššānâ haššēnît̲      |
 +----------------------+
 |in the year the second|
 +----------------------+
 |in the second year    |
 +----------------------+
 
+See the `Open Siddur transliteration page <http://opensiddur.org/tools/transliterate/>`_ for help with Hebrew transliterations.
 
 Spelling
 --------
@@ -30,7 +38,7 @@ Spelling
 Structural
 ----------
 
-* No need to duplicate the glossary entry in the article entry
+* Do not duplicate the glossary entry in the article entry
 * For the UHG and UAG, paradigms/charts should go in a folder named after what the chart displays.  For example, a chart of the demonstrative pronouns could go in `content/chart_demonstrative_pronouns/01.md`. For the UGG, at least initially, paradigms/charts will be placed in the content/paradigms folder with the name of the paradigm/chart that is displayed.
 
 Typographical
