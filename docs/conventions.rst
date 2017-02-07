@@ -14,16 +14,16 @@ When we provide examples in an article we need to use the format below.  Put the
 
 See the following example:
 
-GEN 47:18
+Scripture Reference
 
 +----------------------+
-|בַּשָּׁנָ֣ה הַשֵּׁנִ֗ית            |
+|Hebrew/Greek/Aramaic  |
 +----------------------+
-|baššānâ haššēnît̲      |
+|transliteration       |
 +----------------------+
-|in the year the second|
+|literal translation   |
 +----------------------+
-|in the second year    |
+|smooth translation    |
 +----------------------+
 
 See the `Open Siddur transliteration page <http://opensiddur.org/tools/transliterate/>`_ for help with Hebrew transliterations.
