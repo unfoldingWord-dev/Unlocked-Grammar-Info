@@ -1,7 +1,7 @@
 Using Markdown
 ==============
 
-Markdown is the format in which content on the Gogs Unlocked Grammar projects repository sites is created. The repo sites include a built-in Markdown editor so that in-depth knowledge of the format is typically not necessary. However, there are a few exceptions when knowledge of Markdown format is helpful or necessary.
+Markdown is the text formatting that the Unlocked Grammar projects use. The project sites include a built-in Markdown editor and previewer so that in-depth knowledge of the format is typically not necessary. However, there are a few exceptions when knowledge of Markdown format is helpful or necessary.
 
 Line Breaks
 -----------
