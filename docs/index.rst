@@ -6,7 +6,7 @@
 Unlocked Grammar Information
 ============================
 
-This site is the official documentation for Door43's Unlocked Grammar formatting information.
+This site contains the official documentation for Door43's Unlocked Grammar formatting information.
 
 
 Contents:
