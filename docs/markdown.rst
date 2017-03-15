@@ -32,11 +32,11 @@ separate lines
 Tables
 ------
 
-Since Markdown does not natively support all of the features required, such as row and column spans, tables required for the Unlocked Grammar declension and other paradigms/charts need to be created in HTML format. If you are not familiar with HTML, the easiest way to generate the HTML for these tables is to copy and paste the text into an HTML table generator, like this one: http://www.tablesgenerator.com/html_tables#
+Since Markdown does not natively support all of the features required, such as row and column spans, tables required for the Unlocked Grammar declension and other paradigms/charts need to be created in HTML format. If you are not familiar with HTML, the easiest way to generate the HTML for these tables is to copy and paste the text into an `HTML table generator <http://www.tablesgenerator.com/html_tables#>`_. 
 
 .. note:: Charts are needed for many paradigms and declensions. These should be taken from public domain grammars to avoid copyright issues. For Greek, Nunn and Moulton are two public domain grammars that can be used. To save time, copy paradigms/charts from an electronic source rather than hand typing them. Some are probably on the Internet free (e.g., at archive.org) perhaps even in HTML format. However, some of those will need to be modified since older grammars tend to list 'thou' and 'ye' to differentiate 2nd person sg. & pl. and those should be 'you' or 'you (sg.)' and 'you (pl.). Also, the terminology and abbreviations need to be consistent in all charts so that means some of the public domain charts will need to be modified.
 
-To use the tables generator app at http://www.tablesgenerator.com/html_tables# in Markdown files:
+To use the `HTML table generator <http://www.tablesgenerator.com/html_tables#>`_ in Markdown files:
 
 1. Copy and paste your text into the formatted table view.
 
