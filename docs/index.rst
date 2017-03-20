@@ -16,6 +16,8 @@ Contents:
 
    purpose
    conventions
+   hebrew
+   greek
    gogs
    markdown
    vocabulary
