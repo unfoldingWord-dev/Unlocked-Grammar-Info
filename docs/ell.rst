@@ -26,7 +26,7 @@ Grammatical Tips
 
 Vocabulary Tips
 ---------------
-1. Avoid Slang 
+1. Avoid slang 
 2. Avoid jargon or overly technical language (not found in Scripture)
 3. Use simple vocabulary when possible
 4. Avoid compound/phrasal verbs
@@ -43,17 +43,17 @@ Spelling/Procedural
 3. Write in the third person
 4. In general, write in the past tense when describing events that have already occurred
 5. Be cautious about tense in prophecy as this will have implications about whether a prophecy has been or will be fulfilled
-6 If possible, juxtapose two ideas right next to each other. The example above could be written as two paragraphs starting with “Some scholars” and “Other scholars” or as two sentences in the same paragraph.
-7. Avoid words with different possibly senses being used in a given paragraph. Also, make certain that a pronoun’s antecedent is clear and unmistakable.
+6. If possible, juxtapose two ideas right next to each other. The example above could be written as two paragraphs starting with “Some scholars” and “Other scholars” or as two sentences in the same paragraph
+7. Avoid words with different possibly senses being used in a given paragraph. Also, make certain that a pronoun’s antecedent is clear and unmistakable
 8. If possible, avoid words with multiple abstract senses
 
 Editorial
 ---------
-1. Ensure that the paragraphs are well formed before diving into the trans friendly challenges for each sentence. 
-2. Figure out what the author wants to say, rather than just look at what he has written.
-3. Make headings (e.g., "Overview") precise. (See below)
-4. Watch out for unfortunate implications not intended by the author.
-5. Prefer shorter rather than longer sentences.
-6. Be ready to split a paragraph up into more than one paragraphs.
+1. Ensure that the paragraphs are well formed before diving into the trans friendly challenges for each sentence
+2. Figure out what the author wants to say, rather than just look at what he has written
+3. Make headings (e.g., "Overview") precise
+4. Watch out for unfortunate implications not intended by the author
+5. Prefer shorter rather than longer sentences
+6. Be ready to split a paragraph up into several paragraphs, if needed, for clarification
 
 
