@@ -50,3 +50,9 @@ To use the `HTML table generator <http://www.tablesgenerator.com/html_tables#>`_
 7. Preview the file to make sure formatting is correct.
 8. If the chart or paradigm is complete, click the **Commit Changes** button to save the file changes to your fork.
 
+Linking
+-------
+
+For links to other sections within the same page, use an internal # link.  For instance, to link to the section on "Form", you can add a link like this [see Form](#form).
+
+For links to other pages, you may use the full URL, like this, [see Adjective Article](https://git.door43.org/Door43/en-uhg/src/master/content/adjective/02.md).
