@@ -22,7 +22,7 @@ We are aiming at something simple to aid in pronunciation, not for scholarly pur
 Citations
 
 
-There is no need to directly quote.
-We should be careful not to lift groups of examples from any one grammar.
-Citations are for the team, not the final product.
-In the final product, there may be an acknowledgements page listing grammars consulted, but don’t do anything that would necessitate a citation.
+* There is no need to directly quote.
+* We should be careful not to lift groups of examples from any one grammar.
+* Citations are for the team, not the final product.
+* In the final product, there may be an acknowledgements page listing grammars consulted, but don’t do anything that would necessitate a citation.
