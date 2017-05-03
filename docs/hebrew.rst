@@ -19,6 +19,36 @@ Transliteration
 
 We are aiming at something simple to aid in pronunciation, not for scholarly purposes. SBL General is what we want to standardize on. Logos has a tool to do this automatically. If you don't have access to Logos, ask Bram to do it.
 
+Examples
+
+
+Line 1: Hebrew with the term in question bolded 
+
+Line 2: Simple transliteration as described above
+
+Line 3: Literal representation of Hebrew in the order of the Hebrew words, with meaning contained in individual words represented with English words connected by dashes. Necessary grammatical information can be given with abbreviations in capitals. This allows the reader to track the words with the meaning in the words.
+
+Line 4: Smooth English translation
+
+Examples:
+
+וְהָאֹורֵ֡ב קָם֩ מְהֵרָ֨ה מִמְּקֹומֹ֤ו
+
+weha'owrev qam meherah mimmeqowmow
+
+and-the-lying-in-ambush stood quickly from-place-of-him
+
+
+The soldiers hiding in ambush quickly rushed out of their place
+
+וַיִּקַּ֣ח אָ֠סָא אֶת־כָּל־הַכֶּ֨סֶף וְהַזָּהָ֜ב
+
+wayyiqqah 'asa 'eth-kol-hakkesef wehazzahav
+
+and-he-took Asa DO-all-the-silver and-the-gold
+
+Then Asa took all the silver and gold
+
 Citations
 
 
