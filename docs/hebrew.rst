@@ -19,7 +19,7 @@ Transliteration
 
 We are aiming at something simple to aid in pronunciation, not for scholarly purposes. SBL General is what we want to standardize on. Logos has a tool to do this automatically. If you don't have access to Logos, ask Bram to do it.
 
-Examples
+Four-line Examples
 
 
 Line 1: Hebrew with the term in question bolded 
@@ -45,9 +45,12 @@ The soldiers hiding in ambush quickly rushed out of their place
 
 wayyiqqah 'asa 'eth-kol-hakkesef wehazzahav
 
-and-he-took Asa DO-all-the-silver and-the-gold
+and-he-took Asa [dir.obj]_all_the-silver and-the-gold
 
 Then Asa took all the silver and gold
+
+
+Grammatical notations for the literal line 3 of examples will use short abbreviations in lower case within square brackets, as above (e.g., [dir.obj]. Others that might possibly be needed would be: [masc], [fem], [sing], [pl], [dual]. Others?
 
 Citations
 
