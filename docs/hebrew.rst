@@ -50,7 +50,7 @@ and-he-took Asa [dir.obj]_all_the-silver and-the-gold
 Then Asa took all the silver and gold
 
 
-Grammatical notations for the literal line 3 of examples will use short abbreviations in lower case within square brackets, as above (e.g., [dir.obj]). Others that might possibly be needed would be: [masc], [fem], [sing], [pl], [dual]. Others?
+Grammatical notations for the literal line 3 of examples will use short abbreviations in lower case within square brackets, as above (e.g., [dir.obj]). Others that might possibly be needed would be: [masc], [fem], [sing], [pl], [dual], [?]. Others?
 
 Citations
 
