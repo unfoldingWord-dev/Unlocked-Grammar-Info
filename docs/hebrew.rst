@@ -59,7 +59,7 @@ Grammatical notations for the literal line 3 of examples will use short abbrevia
 * Exhortation particle = [exhort] (usually translated)
 * Negation particle = [neg] (usually translated)
 * Relative particle = should be translated rather than abbreviated
-* Interrogative particle = [?]
+* Interrogative particle = [quest]
 * Interjection particle = either translated or shown as “[interjection]”
 * Conditional particles should be translated rather than abbreviated
 * Discourse particles should be translated rather than abbreviated
