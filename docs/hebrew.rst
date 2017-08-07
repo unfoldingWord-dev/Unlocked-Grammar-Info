@@ -65,8 +65,44 @@ Grammatical notations for the literal line 3 of examples will use short abbrevia
 * Discourse particles should be translated rather than abbreviated
 * **Translate when possible, use abbreviation only if the word cannot be translated**
 
+**Prototypical Uses of Particles**
 
-Citations
+Below are listed the prototypical uses for major particles.  The parsing team will parse according to this list, then later a smaller team will go through and change individual attestations for other uses based on context.  This will keep the parsing team from getting bogged down with contextual analysis when trying to decide how to parse.
+
+* כִּי  – conjunction
+* אִם – conjunction
+* אוֹ – conjunction
+* גַּם – affirmation particle
+* אַף – affirmation particle
+* רַק – affirmation particle
+* אַךְ – affirmation particle
+* עַתָּה – adverb
+* וְעַתָּה – conjunction
+* פֶּן – conjunction
+* לוּ – conjunction
+* נָא – exhortation particle
+* אָנָּא – exhortation particle
+* בִּי – exhortation particle (when not preposition with 1cs suffix)
+* הָהּ – interjection
+* הוֹ – interjection
+* הֶאָה – interjection
+* אִי – interjection
+* הִנֵּה – demonstrative particle
+* הֵן – demonstrative particle
+* כֵּן – demonstrative particle
+* לֹא – negative particle
+* אַל – negative particle
+* אַיִן – negative particle
+* בַּל – negative particle
+* בְּלִי – negative particle
+* בִּלְתִּי – conjunction
+* אָנָה – adverb
+* פֹּה – adverb
+* כֹּה – adverb
+* אַי – adverb
+
+
+**Citations**
 
 
 * There is no need to directly quote.
