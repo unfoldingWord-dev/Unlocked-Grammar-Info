@@ -85,7 +85,7 @@ Below are listed the prototypical uses for major particles.  The parsing team wi
 * בִּי – exhortation particle (when not preposition with 1cs suffix)
 * הָהּ – interjection
 * הוֹ – interjection
-* הֶאָה – interjection
+* הֶאָח – interjection
 * אִי – interjection
 * הִנֵּה – demonstrative particle
 * הֵן – demonstrative particle
