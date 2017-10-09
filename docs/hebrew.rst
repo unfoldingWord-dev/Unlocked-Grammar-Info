@@ -86,7 +86,7 @@ Below are listed the prototypical uses for major particles.  The parsing team wi
 * הָהּ – interjection
 * הוֹ – interjection
 * הֶאָח – interjection
-* אִי – interjection
+* אִי – interjection 
 * הִנֵּה – demonstrative particle
 * הֵן – demonstrative particle
 * כֵּן – demonstrative particle
@@ -99,7 +99,7 @@ Below are listed the prototypical uses for major particles.  The parsing team wi
 * אָנָה – adverb
 * פֹּה – adverb
 * כֹּה – adverb
-* אַי – adverb
+* אַי – interrogative particle
 
 
 **Citations**
